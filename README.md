@@ -1,6 +1,6 @@
-# meltask
+# Meltask
 
-A new Flutter project.
+News tracker from **NewsAPI**. Used by Hive Database to caching news. Fully clean architecture with BloC, separated repositories that's working with data of app. 
 
 ## Getting Started
 
